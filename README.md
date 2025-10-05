@@ -1,2 +1,2 @@
 # html-portfolio
-This is not my final work and it still needs a lot of revisions. I'll update it as soon as possible.
+This project is a work in progress and remains subject to further revisions. Updates will be implemented as soon as possible.
